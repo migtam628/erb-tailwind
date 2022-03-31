@@ -7,9 +7,7 @@ const Hello = () => {
   return (
     <div className="text-center">
       <img src={icon} alt="logo" className="h-48 w-48" />
-      <h1 className="text-2xl font-bold">
-        electron-react-boilerplate with tailwind
-      </h1>
+      <h1 className="text-4xl font-bold">iWatchTV</h1>
     </div>
   );
 };
